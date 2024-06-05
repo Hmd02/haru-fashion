@@ -40,7 +40,7 @@ An e-commerce web application developed with Next.JS and TypeScript. Tailwind CS
 Clone the project
 
 ```bash
-git clone https://github.com/satnaing/e-commerce.git
+git clone https://github.com/Hmd02/haru-fashion.git
 ```
 
 Go to the project directory
